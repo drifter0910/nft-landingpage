@@ -4,7 +4,7 @@ import Spline from '@splinetool/react-spline';
 export default function Hero() {
   return (
     <>
-      <div className="bg-tertiary py-20 md:py-24">
+      <div className="bg-tertiary py-20 md:py-24 md:px-8 ">
         <div className="grid grid-cols-1 md:grid-cols-2 container mx-auto">
           <div
             className="flex flex-col gap-8 text-center items-center md:text-left md:items-start"

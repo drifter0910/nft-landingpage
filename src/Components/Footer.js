@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <div
-        className="border-t-4 border-tertiary mt-16 py-10 text-tertiary"
+        className="border-t-4 border-tertiary mt-16 py-10 text-tertiary md:px-8"
         data-aos="fade-up"
         data-aos-duration="2000"
       >

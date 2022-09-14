@@ -2,7 +2,7 @@ export default function Steps() {
   return (
     <>
       <div
-        className="container mx-auto py-10 md:py-20 px-3 md:px-0"
+        className="container mx-auto py-10 md:py-20 px-3 md:px-8 "
         data-aos="fade-up"
         data-aos-duration="2000"
       >
